@@ -1,6 +1,4 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=boomzero)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=boomzero&layout=compact)
 
 [![An image of @boomzero's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/boomzero)](https://holopin.io/@boomzero)
 <!--
